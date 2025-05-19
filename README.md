@@ -1,6 +1,6 @@
 # PyTorch for Deep Learning
 
-This repository's purpose to host practice code for the Learn `PyTorch for Deep Learning` course by Daniel Bourke. The course is said to teach the foundations of machine learning and deep learning with PyTorch (a machine learning framework written in Python).
+This repository's purpose to host Jupyter notebooks for the Learn `PyTorch for Deep Learning` course by Daniel Bourke. The course is said to teach the foundations of machine learning and deep learning with PyTorch (a machine learning framework written in Python).
 
 ## What will I build in the course?
 
